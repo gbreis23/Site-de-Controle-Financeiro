@@ -1,0 +1,45 @@
+{
+    "renda": 423.0,
+    "transacoes": [
+        {
+            "id": "1773230020.872682",
+            "data": "11/03/2026 08:53",
+            "descricao": "Anticoncepcional da Ana",
+            "valor": 115.0,
+            "categoria": "Necessidades"
+        },
+        {
+            "id": "1773230086.564469",
+            "data": "11/03/2026 08:54",
+            "descricao": "Hospedagem",
+            "valor": 110.0,
+            "categoria": "Necessidades"
+        },
+        {
+            "id": "1773230106.260281",
+            "data": "11/03/2026 08:55",
+            "descricao": "Compra no Dinheiro",
+            "valor": 50.0,
+            "categoria": "Necessidades"
+        },
+        {
+            "id": "1773230120.956161",
+            "data": "11/03/2026 08:55",
+            "descricao": "uber",
+            "valor": 50.0,
+            "categoria": "Necessidades"
+        },
+        {
+            "id": "1773230139.571368",
+            "data": "11/03/2026 08:55",
+            "descricao": "Alimentação ",
+            "valor": 50.0,
+            "categoria": "Necessidades"
+        }
+    ],
+    "metas_pct": {
+        "Necessidades": 0,
+        "Desejos": 0,
+        "Investimentos": 0
+    }
+}
